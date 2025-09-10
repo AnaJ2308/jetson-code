@@ -1,2 +1,3 @@
 run multiple cameras:
 ros2 launch realsense2_camera mymultiple_camera_launch.py camera_name1:=cam_1 camera_namespace1:=topic_1 serial_no1:='"231122302507"' camera_name2:=cam_2 camera_namespace2:=topic_2 serial_no2:='"339522300432"' camera_name3:=cam_3 camera_namespace3:=topic_3 serial_no3:='"246322301906"'
+ros2 launch realsense2_camera myone_camera_launch.py camera_name1:=cam_1 camera_namespace1:=topic_1 serial_no1:='"231122302507"'
